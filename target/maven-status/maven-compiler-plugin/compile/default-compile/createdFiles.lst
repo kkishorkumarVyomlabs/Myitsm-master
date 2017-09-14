@@ -1,0 +1,12 @@
+com\vyomlabs\model\Json_Model.class
+com\vyomlabs\auto\Tickets.class
+com\vyomlabs\bussiness\CheckCredential.class
+com\vyomlabs\model\Status.class
+com\vyomlabs\model\Fulfillment.class
+com\vyomlabs\bussiness\API_AI_Responce.class
+com\vyomlabs\model\Parameters.class
+com\vyomlabs\main\RequestResponce.class
+com\vyomlabs\model\Metadata.class
+com\vyomlabs\model\Result.class
+com\vyomlabs\model\Response_Mdl.class
+com\vyomlabs\model\Messages.class
